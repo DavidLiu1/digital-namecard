@@ -1,12 +1,12 @@
 BEGIN:VCARD
 VERSION:3.0
 PRODID:-//Apple Inc.//iPhone OS 11.2.2//EN
-N:Oscar;Cordova;;;
-FN: Oscar  Cordova 
+N:David;Liu;;;
+FN: David  Liu 
 ORG:Bolide Technology Group;
-TITLE:Southeast Regional Sales Manager
-EMAIL;type=INTERNET;type=WORK;type=pref:oscar@bolideco.com
-TEL;type=Mobile;type=VOICE:562-449-8042
+TITLE:Southeast President
+EMAIL;type=INTERNET;type=WORK;type=pref:david@bolideco.com
+TEL;type=Mobile;type=VOICE:626-277-8895
 item1.ADR;type=WORK;type=pref:;;468 S. San Dimas Ave. San Dimas, CA 91773
 item1.X-ABADR:sg
 item2.URL;type=pref:bolideco.com
